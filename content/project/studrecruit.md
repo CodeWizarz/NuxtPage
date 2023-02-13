@@ -1,25 +1,26 @@
 ---
-title: 'LPNU StudRecruit'
+title: 'VUE Portfolio'
 description: This project was build exclusively for Student Recruiting Department. It is a student organization that consolidates the students' union and its government. The recruitment department is one of the
-live: 'https://studrecruit.lpnu.ua'
+live: 'https://wizarz.netlify.app/'
 tags:
   - 'Website'
   - 'SEO'
-  - 'Next.js'
+  - 'Vue.js'
   - 'gsap'
   - 'SCSS'
-image: '/img/studrecruit-logo.webp'
-previewImage: '/img/studrecruit.webp'
+  - 'Three.js'
+image: '/img/studrecruit-logo.png'
+previewImage: '/img/studcre.png'
 createdAt: '2022-04-01T00:00:00+03:00'
 ---
 
 ::project-header
 :::project-title
-LPNU Student Recruiting
+VUE WebPage
 :::
 
 #live
-[see live](https://studrecruit.lpnu.ua)
+[see live](https://wizarz.netlify.app/)
 ::
 
 ::project-main
@@ -28,10 +29,10 @@ LPNU Student Recruiting
 :::
 
 :::project-section{type="text"}
-This project was build exclusively for Student Recruiting Department. It is a student organization that consolidates the students' union and its government. The recruitment department is one of the functioning departments of the Students' and Ph.D. students' government and primary trade-union organization of Lviv Polytechnic National University that provides employment opportunities for students.
+This project was build exclusively using Next.js, React, Three.js, Chakra-UI, Framer-Motion.
 
-- [tg](https://t.me/recruiting_nulp)
-- [ig](https://www.instagram.com/recruiting.nulp/)
+- [tg](#)
+- [ig](#)
 
 :::
 
@@ -54,3 +55,4 @@ This project was build exclusively for Student Recruiting Department. It is a st
 :::project-section{type="project-next"}
 ::::project-next
 ::
+

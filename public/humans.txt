@@ -1,7 +1,7 @@
 /* TEAM */
-	Developer: Bogdan Kostyuk.
+	Developer: Code Wizard.
 	Telegram: https://t.me/bogdankostyuk.
-	Location: Ukraine, if you wanna know more, write me 😁.
+	Location: India, if you wanna know more, write me 😁.
 
 /* THANKS */
 	Patterns: taken from: https://products.ls.graphics/paaatterns

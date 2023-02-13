@@ -192,7 +192,7 @@ onMounted(() => {
       @click="() => $smoothScroll.scrollTo(0)"
       @keypress.enter.space.prevent="() => $smoothScroll.scrollTo(0)"
     >
-      BK
+      CW
     </p>
 
     <ul v-show="route.name === 'index'" ref="navList" class="nav__list">
@@ -222,12 +222,7 @@ onMounted(() => {
       <MenuIconSVG ref="navMenuButtonSVG" />
     </button>
 
-    <NuxtLink
-      v-else
-      v-hoverable.action
-      href="/"
-      class="nav__back-link"
-    >
+    <NuxtLink v-else v-hoverable.action href="/" class="nav__back-link">
       <ArrowLeft />
     </NuxtLink>
   </nav>
@@ -428,3 +423,4 @@ onMounted(() => {
   }
 }
 </style>
+

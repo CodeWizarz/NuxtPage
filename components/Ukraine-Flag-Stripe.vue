@@ -5,11 +5,11 @@
 
     <NuxtLink
       v-hoverable.outer-link
-      href="https://u24.gov.ua"
+      href="https://www.buymeacoffee.com/CodeWizz"
       target="_blank"
       class="flag-stripe__content"
     >
-      Help Ukraine
+      Buy Me a cup of Coffee
     </NuxtLink>
   </div>
 </template>
@@ -76,3 +76,4 @@
   }
 }
 </style>
+

@@ -6,12 +6,12 @@ export default ({ title, description, link = [], meta = [], mode }) => {
   useHead(
     {
       title,
-      titleTemplate: '%s | Bogdan Kostyuk',
+      titleTemplate: '%s | Code Wizz',
       htmlAttrs: { lang: 'en', dir: 'ltr' },
       meta: [
         { lang: 'en' },
         { language: 'English' },
-        { property: 'name', name: 'name', content: 'Bogdan Kostyuk' },
+        { property: 'name', name: 'name', content: 'Code Wizz' },
         { charset: 'utf-8' },
         { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge' },
         { 'http-equiv': 'Reply-to', content: 'contact@bogdankostyuk.xyz' },
@@ -26,7 +26,7 @@ export default ({ title, description, link = [], meta = [], mode }) => {
         {
           property: 'og:site_name',
           name: 'og:site_name',
-          content: 'Bogdan Kostyuk',
+          content: 'Code Wizz',
         },
         { property: 'og:title', name: 'og:title', content: title },
         description
@@ -83,3 +83,4 @@ export default ({ title, description, link = [], meta = [], mode }) => {
     { mode: mode ?? 'server' }
   );
 };
+

@@ -65,12 +65,12 @@ onBeforeUnmount(() => {
     <div class="header__container">
       <h1 class="header__container__title">
         <span class="header__container__title__line">
-          <span class="header__container__title__line__content">Bogdan</span>
+          <span class="header__container__title__line__content">Code</span>
         </span>
         <span
           class="header__container__title__line header__container__title__line--pl"
         >
-          <span class="header__container__title__line__content">Kostyuk</span>
+          <span class="header__container__title__line__content">Wizard</span>
         </span>
       </h1>
 
@@ -247,3 +247,4 @@ onBeforeUnmount(() => {
   }
 }
 </style>
+

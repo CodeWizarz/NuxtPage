@@ -43,11 +43,11 @@ onMounted(() => {
     >
       <div class="footer__content">
         <p class="footer__content__title">
-          <span class="footer__content__title__line">Bogdan</span>
+          <span class="footer__content__title__line">Code</span>
           <span
             class="footer__content__title__line footer__content__title__line--pl"
           >
-            Kostyuk
+            Wizz
           </span>
         </p>
         <ul class="footer__content__social-links">
@@ -63,7 +63,7 @@ onMounted(() => {
         </ul>
 
         <p class="footer__content__copyright">
-          Copyright ©{{ getCurrentYear() }} BK
+          Copyright ©{{ getCurrentYear() }} CW
         </p>
 
         <p class="footer__content__note">
@@ -78,12 +78,12 @@ onMounted(() => {
           />
           in
           <img
-            title="Ukraine"
+            title="India"
             loading="lazy"
-            src="~/assets/img/ukraine-flag.png"
+            src=""
             width="70"
             height="70"
-            alt="ukraine"
+            alt="India"
           />
         </p>
       </div>
@@ -308,3 +308,4 @@ onMounted(() => {
   }
 }
 </style>
+

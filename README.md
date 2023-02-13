@@ -3,7 +3,7 @@
 # Portfolio
 
 <img src="https://bogdankostyuk.xyz/logo.png" align="right"
-     alt="Portfolio logo by Bogdan Kostyuk" width="120" height="120">
+     alt="Portfolio logo by Code Wizard" width="120" height="120">
 
 This is my portfolio, where you can find little summery of my developer road. Also there are some of
 projects that i am using quite often
@@ -58,3 +58,4 @@ projects that i am using quite often
 ---
 
 ### Star if you liked it 😜
+

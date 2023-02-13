@@ -1,1 +1,2 @@
-My name is Bogdan Kostyuk and I am Ukrainian based Front End developer, passionate about UI effects, animations and code. Mostly in use are NuxtJS and Next.js, SCSS for styling and GreenSock for smooth animations, also recently got my hands on custom shaders with ThreeJS and OGL.
+"Allow me to introduce myself, my name is [Your Name] and I am a skilled code wizard. As a [Your Location] based developer, I am passionate about crafting unique and visually stunning user interfaces through the use of dynamic animations and efficient code.
+

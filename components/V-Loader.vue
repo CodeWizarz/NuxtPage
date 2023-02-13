@@ -13,7 +13,7 @@ emitter.on('shader:running', () => {
 });
 </script>
 
-<template>
+<!-- <template>
   <div ref="loader" class="loader">
     <svg
       class="loader__svg"
@@ -41,7 +41,7 @@ emitter.on('shader:running', () => {
       </defs>
     </svg>
   </div>
-</template>
+</template> -->
 
 <style lang="scss">
 .loader {
@@ -105,3 +105,4 @@ emitter.on('shader:running', () => {
   }
 }
 </style>
+

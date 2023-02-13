@@ -1,16 +1,19 @@
 ---
 description: 'This website, as you might already notice, is my portfolio. I am using it to showcase what I learn and what I can do. It was built with the cutting-edge framework Nuxt'
-source: 'https://github.com/logotip4ik/portfolio'
+source: 'https://github.com/CodeWizarz/NuxtPage'
 live: 'https://bogdankostyuk.xyz'
 tags:
   - Website
   - SEO
-  - Nuxt.js
+  - Next.js
   - three.js
+  - Chakra UI
+  - prettier
+  - Framer Motion
   - gsap
   - SCSS
-image: '/img/portfolio-logo.webp'
-previewImage: '/img/portfolio.webp'
+image: '/img/portfolio-logo.png'
+previewImage: '/img/portfolio1.png'
 createdAt: '2022-03-31T00:00:00+03:00'
 ---
 
@@ -19,9 +22,9 @@ createdAt: '2022-03-31T00:00:00+03:00'
 Portfolio Version 3
 :::
 
-#source
+<!-- #source
 [source](https://github.com/logotip4ik/portfolio)
-::
+:: -->
 
 ::project-main
 :::project-section{type="fwidth"}
@@ -33,12 +36,12 @@ This website, as you might already notice, is my portfolio. I am using it to sho
 
 While building this website, I faced a lot of different and exceptional issues. One was breaking everything after moving one line of code up or down :sweat_smile:. Another was, how to reconcile Nuxt3, GSAP, and Locomotive Scroll in one package, so the route transition looks soft and native. But after trials and errors, something proper was created. Feel free to break everything :joy:.
 
-- [github](https://github.com/logotip4ik)
-- [twitter](https://twitter.com/BogdanKostyuk_)
-- [telegram](https://t.me/bogdankostyuk)
-- [linkedin](https://www.linkedin.com/in/bogdankostyuk)
-- [blog](https://blog.bogdankostyuk.xyz)
-- [email](mailto:contact@bogdankostyuk.xyz)
+- [github](https://github.com/CodeWizarz)
+- [twitter](https://twitter.com/wizzcode)
+- [telegram](https://t.me/defuite)
+- [linkedin](#)
+- [blog](#)
+- [email](mailto:dveloperbobby@gmail.com)
 
 <br />
 
@@ -48,3 +51,4 @@ Would love to hear from you :wink:
 :::project-section{type="project-next"}
 ::::project-next
 ::
+
