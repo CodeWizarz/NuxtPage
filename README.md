@@ -1,14 +1,7 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua/)
-
 # Portfolio
-
-<img src="https://bogdankostyuk.xyz/logo.png" align="right"
-     alt="Portfolio logo by Code Wizard" width="120" height="120">
 
 This is my portfolio, where you can find little summery of my developer road. Also there are some of
 projects that i am using quite often
-
-> BTW: [previous portfolio](https://next.portfolio-5iw.pages.dev/)
 
 ## Build with
 
@@ -31,31 +24,31 @@ projects that i am using quite often
 1. Clone or fork this repo
 
    ```shell
-   $ git clone https://github.com/logotip4ik/portfolio
+   git clone https://github.com/CodeWizarz/NuxtPage.git
    ```
 
 2. Install all the dependencies
 
    ```shell
-   $ yarn
+   yarn
    ```
 
    or
 
    ```
-   $ npm install
+   npm install
    ```
 
 3. Run the local server!
    ```shell
-   $ yarn dev
+   yarn dev
    ```
    or
    ```shell
-   $ npm run dev
+   npm run dev
    ```
 
 ---
 
-### Star if you liked it 😜
+### Star if you liked it 
 
