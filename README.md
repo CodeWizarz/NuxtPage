@@ -1,8 +1,5 @@
 # Portfolio
 
-<img src="https://bogdankostyuk.xyz/logo.png" align="right"
-     alt="Portfolio logo by Code Wizard" width="120" height="120">
-
 This is my portfolio, where you can find little summery of my developer road. Also there are some of
 projects that i am using quite often
 
